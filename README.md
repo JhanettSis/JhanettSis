@@ -25,7 +25,7 @@ In the development of several projects like my **Restaurant Ordering System** an
 - **Daily Standups (Self-managed)**: Although I often work solo, I still use Agile practices like daily standups to keep track of my progress, identify blockers, and set goals for the day.
 - **Sprint Retrospectives**: After each sprint, I review what worked and what didn’t. This helps improve my workflow and adapt quickly to changes in the project.
 
-![Agile Workflow](https://via.placeholder.com/600x300?text=Agile+Workflow)
+![Agile Workflow GIF](https://via.placeholder.com/600x300.gif?text=Agile+Workflow+GIF)
 
 ### 🔄 **SDLC**: Structuring the Development Process
 
@@ -55,7 +55,7 @@ I follow a well-defined **SDLC process** to ensure the consistency and quality o
     - Even after deployment, I continuously monitor the application for any issues, applying patches and updating features as needed.
     - I use **feedback loops** to improve the application based on user input and system performance.
 
-![SDLC Process](https://via.placeholder.com/600x300?text=SDLC+Process)
+![SDLC Process GIF](https://via.placeholder.com/600x300.gif?text=SDLC+Process+GIF)
 
 ---
 
@@ -71,7 +71,7 @@ A fully-functional web-based **Restaurant Ordering System** built using **Larave
   - MVC architecture for maintainable code
   - Scalable performance optimized with lazy loading and SQL query improvement
 
-![Restaurant Ordering System](https://via.placeholder.com/600x300?text=Restaurant+Ordering+System)
+![Restaurant Ordering System Demo](https://via.placeholder.com/600x300.gif?text=Restaurant+Ordering+System+Demo)
 
 ---
 
@@ -84,7 +84,7 @@ A dynamic and responsive website for **Skyline Escapes Travel Agency**, develope
   - **Payment gateway** integration.
   - Optimized **frontend and backend performance** for a seamless user experience.
 
-![Skyline Escapes](https://via.placeholder.com/600x300?text=Skyline+Escapes)
+![Skyline Escapes Demo](https://via.placeholder.com/600x300.gif?text=Skyline+Escapes+Demo)
 
 ---
 
@@ -97,7 +97,7 @@ A **Java-based** rental management system designed for property managers to hand
   - Advanced search filters for properties.
   - **Modular architecture** for easy feature expansion.
 
-![Rental Management System](https://via.placeholder.com/600x300?text=Rental+Management+System)
+![Rental Management System Demo](https://via.placeholder.com/600x300.gif?text=Rental+Management+System+Demo)
 
 ---
 
@@ -111,10 +111,26 @@ I’m a **quick learner**, always adapting to new tools and frameworks. My exper
   
 ---
 
+## 🚀 Future Development
+
+- **Learning Docker** for containerization and improving deployment processes.
+- **Expanding cloud knowledge** with AWS.
+- **Microservices architecture** exploration for scalable system design.
+
+---
+
+## 🧠 Continuous Learning
+
+I’m constantly learning new technologies to keep improving. Currently, I'm diving deep into **Docker** for containerization and **AWS** for cloud computing. I plan to take on more complex projects and enhance my expertise in **cloud platforms** and **containerized deployments**.
+
+- Completed **Udemy Course** on **Laravel** and **Java**.
+- Actively participate in **online developer communities** and follow **tech blogs** to stay up-to-date.
+
+---
+
 ## 📞 Contact Information
 
 - 📧 **Email**: [jhanettsis@gmail.com](mailto:jhanettsis@gmail.com)
-
 ---
 
 ## 💬 Let’s Connect!
