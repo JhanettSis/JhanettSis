@@ -45,7 +45,7 @@ I follow a well-defined **SDLC process** to ensure the consistency and quality o
 
 4. **Testing**:
     - Throughout development, I continuously test the application using **unit tests**, **integration tests**, and **manual testing** to ensure everything works as expected.
-    - **Bug tracking** tools like **Jira** help me manage issues efficiently during this phase.
+    - **Bug tracking** for example in laravel I used Seeders to create a fake data ** this help me manage issues efficiently during this phase.
 
 5. **Deployment**:
     - After testing, I deploy the application using **Docker** or **cloud services** (e.g., **AWS** or **Azure**) for consistency across environments.
