@@ -48,15 +48,11 @@ I follow a well-defined **SDLC process** to ensure the consistency and quality o
     - **Bug tracking** for example in laravel I used Seeders to create a fake data ** this help me manage issues efficiently during this phase.
 
 5. **Deployment**:
-    - After testing, I deploy the application using **Docker** or **cloud services** (e.g., **AWS** or **Azure**) for consistency across environments.
     - I ensure a smooth **continuous integration** and **continuous deployment (CI/CD)** pipeline is in place for future updates.
 
 6. **Maintenance**:
     - Even after deployment, I continuously monitor the application for any issues, applying patches and updating features as needed.
     - I use **feedback loops** to improve the application based on user input and system performance.
-
-![SDLC Process GIF](https://via.placeholder.com/600x300.gif?text=SDLC+Process+GIF)
-
 ---
 
 ## 🔨 Projects
@@ -71,7 +67,7 @@ A fully-functional web-based **Restaurant Ordering System** built using **Larave
   - MVC architecture for maintainable code
   - Scalable performance optimized with lazy loading and SQL query improvement
 
-![Restaurant Ordering System Demo](https://via.placeholder.com/600x300.gif?text=Restaurant+Ordering+System+Demo)
+![Restaurant Ordering System Rep](https://github.com/JhanettSis/food_park)
 
 ---
 
@@ -84,7 +80,7 @@ A dynamic and responsive website for **Skyline Escapes Travel Agency**, develope
   - **Payment gateway** integration.
   - Optimized **frontend and backend performance** for a seamless user experience.
 
-![Skyline Escapes Demo](https://via.placeholder.com/600x300.gif?text=Skyline+Escapes+Demo)
+![Skyline Escapes Rep](https://github.com/JhanettSis/CA2_websiteSkylineScape)
 
 ---
 
@@ -97,7 +93,7 @@ A **Java-based** rental management system designed for property managers to hand
   - Advanced search filters for properties.
   - **Modular architecture** for easy feature expansion.
 
-![Rental Management System Demo](https://via.placeholder.com/600x300.gif?text=Rental+Management+System+Demo)
+![Rental Management System Rep](https://github.com/JhanettSis/SDF_Java_Rental_Management_CA1)
 
 ---
 
@@ -108,7 +104,9 @@ I’m a **quick learner**, always adapting to new tools and frameworks. My exper
 - **Proven Experience**: I have practical experience applying **Agile methodologies** to large and small projects, ensuring flexibility and continuous delivery.
 - **SDLC Adherence**: I follow the **SDLC** process to ensure high-quality code, from **planning** through **deployment**.
 - **Problem Solver**: Whether it's performance optimization, bug fixing, or integrating third-party services, I focus on creating efficient, maintainable solutions.
-  
+- **Database Management**: Proficiency with database management systems (DBMS) such as MySQL, PostgreSQL.
+Understanding of database architecture and design principles.
+
 ---
 
 ## 🚀 Future Development
@@ -121,7 +119,7 @@ I’m a **quick learner**, always adapting to new tools and frameworks. My exper
 
 ## 🧠 Continuous Learning
 
-I’m constantly learning new technologies to keep improving. Currently, I'm diving deep into **Docker** for containerization and **AWS** for cloud computing. I plan to take on more complex projects and enhance my expertise in **cloud platforms** and **containerized deployments**.
+I’m constantly learning new technologies to keep improving. Currently, I'm diving deep into **Docker** for containerization and **AWS** for cloud computing. I plan to take on more complex projects and enhance my expertise in **cloud platforms** and **containerized deployments** and **CISCO**.
 
 - Completed **Udemy Course** on **Laravel** and **Java**.
 - Actively participate in **online developer communities** and follow **tech blogs** to stay up-to-date.
