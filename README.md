@@ -67,7 +67,7 @@ A fully-functional web-based **Restaurant Ordering System** built using **Larave
   - MVC architecture for maintainable code
   - Scalable performance optimized with lazy loading and SQL query improvement
 
-## :dart: About ## ![Restaurant Ordering System Rep](https://github.com/JhanettSis/food_park)
+## :dart: [Restaurant Ordering System Rep](https://github.com/JhanettSis/food_park)
 
 ---
 
