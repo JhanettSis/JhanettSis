@@ -67,7 +67,7 @@ A fully-functional web-based **Restaurant Ordering System** built using **Larave
   - MVC architecture for maintainable code
   - Scalable performance optimized with lazy loading and SQL query improvement
 
-![Restaurant Ordering System Rep](https://github.com/JhanettSis/food_park)
+[![Restaurant Ordering System Rep](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/JhanettSis/food_park)
 
 ---
 
@@ -80,7 +80,7 @@ A dynamic and responsive website for **Skyline Escapes Travel Agency**, develope
   - **Payment gateway** integration.
   - Optimized **frontend and backend performance** for a seamless user experience.
 
-![Skyline Escapes Rep](https://github.com/JhanettSis/CA2_websiteSkylineScape)
+[![Skyline Escapes Rep](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/JhanettSis/CA2_websiteSkylineScape)
 
 ---
 
@@ -93,7 +93,7 @@ A **Java-based** rental management system designed for property managers to hand
   - Advanced search filters for properties.
   - **Modular architecture** for easy feature expansion.
 
-![Rental Management System Rep](https://github.com/JhanettSis/SDF_Java_Rental_Management_CA1)
+[![Rental Management System Rep](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/JhanettSis/SDF_Java_Rental_Management_CA1)
 
 ---
 
