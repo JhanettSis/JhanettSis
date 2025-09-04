@@ -6,7 +6,7 @@ Hi there! I'm a **Network & Cloud Engineer** with a strong foundation in on-prem
 
 ## 🚀 Key Skills
 
-- **Cloud & Virtualization**: Proficient in **Microsoft Azure** for virtual networks, firewalls, and VPNs. Experienced with **Hyper-V** and **Docker** for containerization.
+- **Cloud & Virtualization**: Proficient in **Microsoft Azure** for virtual networks, firewalls, and VPNs. 
 - **Windows Server Administration**: Expert in **Windows Server 2022**, managing **Active Directory**, Group Policies, DNS, and DHCP roles.
 - **Network Fundamentals**: Strong command of **TCP/IP**, LAN/WAN configuration, static IPs, and port forwarding.
 - **Cybersecurity**: Knowledgeable in implementing SSL/TLS, HTTPS, and managing firewall rules to protect network assets.
@@ -32,7 +32,6 @@ My projects and self-study have focused on extending my skills to the cloud. I u
 
 - **Azure Networking**: Gained hands-on experience with **Azure Virtual Networks** and **VPN Gateway** to create secure and scalable cloud infrastructure.
 - **Secure Web App**: Built a web application with **Node.js**, where I configured **SSL certificates** and set up HTTPS routing, demonstrating practical knowledge of web security.
-- **Docker Environments**: Practiced deploying containerized applications with **Docker**, managing port mapping and networking to create isolated testing environments.
 
 ---
 
@@ -69,7 +68,7 @@ I am learning this tool.
 
 ## 🌟 Why Choose Me?
 
-I am a **quick and dedicated learner** with a proven ability to apply my knowledge in practical scenarios. My hands-on experience as an IT & Network Administrator, combined with my passion for modern technologies like **Azure** and **Docker**, makes me a strong candidate for any growing IT team. My B2 English level and my Stamp 1G visa make me a seamless fit for the Irish job market.
+I am a **quick and dedicated learner** with a proven ability to apply my knowledge in practical scenarios. My hands-on experience as an IT & Network Administrator, makes me a candidate for any growing IT team. My B2 English level and my Stamp 1G visa make me a seamless fit for the Irish job market.
 
 ---
 
